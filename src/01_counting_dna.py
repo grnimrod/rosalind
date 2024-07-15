@@ -19,4 +19,4 @@ def char_counter(path_to_DNA_string):
     return f'{A_count} {C_count} {G_count} {T_count}'
 
 
-print(char_counter("./data/rosalind_dna.txt"))
+print(char_counter("./../data/rosalind_dna.txt"))
